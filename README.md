@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Gleam
+- 👀 I’m interested in coding and gaming
